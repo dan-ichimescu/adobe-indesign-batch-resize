@@ -1,4 +1,16 @@
 
+# Adobe InDesign Batch Resize – ExtendScript/JSX Automation
+ 
+A collection of ExtendScript (JSX) automation tools for Adobe InDesign, developed and iterated over **6 years (2020–2026)**. These scripts automate repetitive resizing and document preparation tasks for advertising/print production, evolving from early single-purpose versions to multi-master, cross-platform (Win/Mac) solutions supporting multiple output formats.
+ 
+## Highlights
+ 
+- **2020** – Initial resize scripts (v01–v09b), establishing core automation logic
+- **2023** – Introduced multi-master page support (v10a, v11_IQOS)
+- **2024** – Cross-platform compatibility (Win/Mac), multi-variant outputs (v11–v12)
+- **2025–2026** – Refined download/export automation, latest multi-master versions (v14–v18)
+This repository documents the progression of my JavaScript/ExtendScript skills applied to real production workflows in graphic design automation.
+
 
 ### Adobe InDesign Batch Resize Script
 
